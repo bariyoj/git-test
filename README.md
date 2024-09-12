@@ -1,2 +1,2 @@
 # git-test
-First project
+First project using Github
